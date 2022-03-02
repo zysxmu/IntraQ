@@ -1,5 +1,4 @@
-# Pytorch implementation of our paper accepted by CVPR 2022.
-# IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization [paper](https://arxiv.org/abs/2111.09136)
+# CVPR 2022 paper - IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization [paper](https://arxiv.org/abs/2111.09136)
 
 ## Requirements
 
